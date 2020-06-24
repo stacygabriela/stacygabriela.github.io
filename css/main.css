@@ -3,7 +3,7 @@ body {
 	background-color: #0d1a21;
     margin: 60px auto;
     width: 70%;
-	color: #ffffff;
+
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -27,10 +27,15 @@ h1 {
     font-size: 4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h2 {
+    font-size: 2em;
+    line-height: 1.9em;
+    color: ##ffffff;
+}
 p {
     font-size: 2em;
     line-height: 1.9em;
-    color: ##b6cdd9;
+    color: ##ffffff;
 }
 footer {
     border-top: 5px solid #173342;
