@@ -6,7 +6,7 @@ body {
 
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Times', 'Arial';
     padding: 4px;
     list-style: none;
     font-weight: bold;
@@ -24,23 +24,23 @@ a:hover {
 }
 h1 {
 	color: #ffffff;
-    font-size: 4em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 3em;
+    font-family:'Times', 'Arial';
 }
 h2 {
-    font-size: 2em;
-    line-height: 1.9em;
+    font-size: 1.5em;
+    line-height: 1em;
     color: ##ffffff;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Times', 'Arial';
 }
 p {
-    font-size: 2em;
+    font-size: 1.5em;
     line-height: 1.9em;
     color: ##ffffff;
 }
 footer {
     border-top: 5px solid #ffffff;
-    font-size: .8em;
+    font-size: 1em;
 }
 
 ul.posts { 
