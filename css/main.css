@@ -3,6 +3,7 @@ body {
 	background-color: #0d1a21;
     margin: 60px auto;
     width: 70%;
+	color: #ffffff;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -22,6 +23,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+	color: #ffffff;
     font-size: 4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
