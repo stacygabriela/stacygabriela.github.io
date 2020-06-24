@@ -6,8 +6,9 @@ body {
     
     
     height: 100vh;
-    padding:0;
-    margin:0;
+    padding:60px auto;
+    width: 70%;
+    margin:5;
 
 }
 nav ul, footer ul {
