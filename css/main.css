@@ -5,7 +5,7 @@ body {
     
     
     
-    height: 100vh;
+    height: 200px;
     padding:60px;
     width: 70%;
     margin:10;
@@ -14,41 +14,54 @@ body {
 nav ul, footer ul {
     font-family:'futura', 'helvetica';
 	text-align: center;
-    padding: 4px;
+    padding: 20px;
     list-style: none;
-    font-weight: lighter;
+    font-weight: normal;
 }
 nav ul li, footer ul li {
-    text-align: center;
+    text-align: left;
     margin-right: 30px;
 }
 a {
     text-decoration: none;
-    color: ##ffffff;
+    color: thistle;
 }
 a:hover {
     text-decoration: none;
 	color: thistle;
 }
 h1 {
-	color: #ffffff;
-    font-size: 60px;
+	color: white;
+    font-size: 25px;
 	text-align: left;
     font-family:'futura', 'helvetica';
+	font-weight: lighter;
 }
 h2 {
-    font-size: 25px;
+    font-size: 20px;
     line-height: 4px;
     color: ##ffffff;
     font-family:'futura', 'helvetica';
 	text-decoration: none;
-	text-align: center;
+	text-align: right;
+}
+h4 {
+    font-size: 20px;
+	text-decoration: none;
+    color: white;
+	text-align: right;
+	font-family:'futura','helvetica';
+}
+#emphasis {
+	font-family:'helvetica';
+	font-color: hotpink;
+	font-size: 18px;
 }
 p {
-    font-size: 14px;
-	text-decoration: none;
-    color: ##ffffff;
-	text-align: center;
+	font-size: 18px;
+	font-family:'futura','helvetica';
+	color: thistle;
+	font-stytle: italic;
 }
 footer {
     border-top: 5px solid #thistle;
