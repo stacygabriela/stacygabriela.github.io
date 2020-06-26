@@ -40,7 +40,7 @@ h1 {
 h2 {
     font-size: 20px;
     line-height: 4px;
-    color: ##ffffff;
+    color: lavender;
     font-family:'futura', 'helvetica';
 	text-decoration: none;
 	text-align: right;
@@ -75,7 +75,7 @@ p {
 }
 footer {
     border-top: 5px solid #thistle;
-    font-size: 10px;
+    font-size: 15px;
 	text-decoration: none;
        width: 30%; 
 	text align: right;
