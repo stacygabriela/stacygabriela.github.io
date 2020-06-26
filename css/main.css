@@ -53,6 +53,7 @@ img {
   width: auto;
   height: auto;
   border-radius: 50%;
+  float: right;
 }
 h4 {
     font-size: 20px;
