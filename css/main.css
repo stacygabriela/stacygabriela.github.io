@@ -22,6 +22,15 @@ nav ul li, footer ul li {
     text-align: left;
     margin-right: 0px;
 }
+
+.container {
+	margin: 20px;
+	background-color: thistle;
+	border: none;
+	opacity: 0.5;
+	
+}
+
 a {
     text-decoration: none;
     color: floralwhite;
