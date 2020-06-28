@@ -1,4 +1,5 @@
 
+
 body {
 	    background-image: url('https://media.giphy.com/media/hNPY1jwrwVPsk/giphy.gif');
     background-size: cover;
@@ -16,7 +17,7 @@ nav ul, footer ul {
 	text-align: center;
     padding: 0px;
     list-style: none;
-    font-weight: normal;
+    font-weight: bold;
 }
 nav ul li, footer ul li {
     text-align: left;
@@ -24,10 +25,11 @@ nav ul li, footer ul li {
 }
 
 .container {
-	margin: 20px;
+	margin: 10px;
 	background-color: thistle;
+  width: 200px;
 	border: none;
-	opacity: 0.5;
+	opacity: 0.3;
 	
 }
 
@@ -88,5 +90,3 @@ footer {
        width: 30%; 
 	text align: right;
 }
-
-
