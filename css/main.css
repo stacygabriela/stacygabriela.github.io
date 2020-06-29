@@ -24,14 +24,6 @@ nav ul li, footer ul li {
     margin-right: 0px;
 }
 
-.container {
-	margin: 10px;
-	background-color: thistle;
-  width: 200px;
-	border: none;
-	opacity: 0.3;
-	
-}
 
 a {
     text-decoration: none;
